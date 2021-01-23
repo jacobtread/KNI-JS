@@ -5,6 +5,14 @@ KNI (KAMAR Notices Interface) is a project designed to bring a way of accessing 
 the [KAMAR](https://kamar.nz) portal software. KNIs goal is to produce usable libraries in as many
 languages as possible
 
+[![NPM](https://nodei.co/npm/kni-js.png)](https://nodei.co/npm/kni-js/)
+
+KNI is available on NPM 
+```console
+$ npm i kni-js
+```
+
+
 
 ### Retrieving Notices
 ```javascript
