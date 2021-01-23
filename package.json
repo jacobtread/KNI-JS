@@ -1,0 +1,28 @@
+{
+  "name": "kni-js",
+  "version": "1.0.1",
+  "description": "KAMAR Notices Interface - A way to access notices from KAMAR in a bunch of languages (Node/JavaScript)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacobtread/KNI-JS.git"
+  },
+  "keywords": [
+    "KAMAR",
+    "KNI"
+  ],
+  "author": "Jacobtread",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jacobtread/KNI-JS/issues"
+  },
+  "homepage": "https://github.com/jacobtread/KNI-JS#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "fast-xml-parser": "^3.17.6",
+    "moment": "^2.29.1"
+  }
+}
