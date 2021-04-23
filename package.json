@@ -1,6 +1,6 @@
 {
   "name": "kni-js",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "KAMAR Notices Interface - A way to access notices from KAMAR in a bunch of languages (Node/JavaScript)",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,10 @@
   "homepage": "https://github.com/jacobtread/KNI-JS#readme",
   "dependencies": {
     "axios": "^0.21.1",
-    "fast-xml-parser": "^3.17.6",
-    "moment": "^2.29.1"
+    "date-fns": "^2.21.1",
+    "fast-xml-parser": "^3.17.6"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.41"
   }
 }
